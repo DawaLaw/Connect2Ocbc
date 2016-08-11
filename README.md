@@ -7,6 +7,7 @@ This is the home page of the Connect2Ocbc API Library in .NET
 2. Open **Connect2Ocbc.sln**.
 3. Build it.
 4. Reference it.
+5. Sign up for [API Key](https://api.ocbc.com/store/).
 
 
 ## Build
